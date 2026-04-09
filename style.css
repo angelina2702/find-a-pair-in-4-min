@@ -54,7 +54,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 50px;
+  text-align: center;
+  font-size: 1.1rem;
 }
 .span{
   width: 10vh;
