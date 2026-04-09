@@ -125,7 +125,7 @@ body {
     padding: 5px;
 }
 .memory-game {
-  width: 364px;
+  width: 374px;
   display: grid;
   grid-template-columns: repeat(5, 1fr); 
   gap: 3px; 
